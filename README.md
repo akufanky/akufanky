@@ -1,3 +1,5 @@
+<img src="[https://example.com/banner-image.png](https://c4.wallpaperflare.com/wallpaper/718/772/992/baymax-big-hero-6-big-hero-6-animated-movies-movies-wallpaper-preview.jpg)" alt="Banner image">
+
 # 💫 About Me:
 Very interested in AI :<br>- Machine Learning<br>- Deep Learning<br>- Data Analyst<br>- Data Science
 
