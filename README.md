@@ -1,4 +1,4 @@
-<img src="banner-ku3.png" alt="GitHub Banner" width="100%" />
+<img src="my-github-banner2.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 I am very interested in all things Artificial Intelligence, such as: <br>🤖Machine Learning<br>🧠Deep Learning<br>📊Data Analysis<br>📚Data Science. <br>I am very open to learning things that I don't know yet.
